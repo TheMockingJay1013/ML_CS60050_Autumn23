@@ -1,0 +1,7 @@
+digraph {
+	Root
+	Left
+	Root -> Left [label=True]
+	Right
+	Root -> Right [label=False]
+}
